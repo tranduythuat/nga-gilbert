@@ -364,6 +364,9 @@ header {
 .invite .content .family-info .label {
   font-weight: 600;
 }
+.invite .content .family-info .address {
+  text-transform: none;
+}
 .invite .content .invitation-text {
   font-family: "Lora", sans-serif;
   font-size: 14px;
